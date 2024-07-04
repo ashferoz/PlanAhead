@@ -31,6 +31,7 @@ Experience seamless appointment management with this intuitive MERN stack applic
 - MongoDB
 - Mongoose
 - Express
+- Node.js
 - Fontawesome
 
 ***
