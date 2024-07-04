@@ -1,0 +1,90 @@
+.introCard {
+  background-color: rgb(237, 158, 105);
+  width: 30%;
+  height: 350px;
+  margin: 2%;
+  text-align: center;
+  border-radius: 20px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.introCard img {
+  width: 110%;
+  height: auto;
+  object-fit: fill;
+}
+
+.introCard h1 {
+  font-size: 40px;
+  font-weight: 300;
+  margin: 2%;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.apptWindow {
+  display: inline-block;
+  width: 60%;
+  height: auto;
+  border-radius: 20px;
+  vertical-align: top;
+  text-align: center;
+}
+.apptWindow h2 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 60px;
+  position: relative;
+}
+
+.form {
+  position: absolute;
+  margin-top: 400px;
+  left: 3.5%;
+  width: 30%;
+  height: auto;
+  text-align: center;
+  border-radius: 20px;
+  display: inline-block;
+  background-color: rgb(237, 158, 105);
+}
+
+.form h2 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.inputBox {
+  margin: 10px;
+  width: 60%;
+  height: 30px;
+  color: rgb(113, 113, 113);
+  cursor: pointer;
+}
+
+.submit {
+  display: block;
+  margin: 20px auto;
+  border: none;
+  background-color: rgb(0, 166, 232);
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  transition: font-size 0.2s;
+  box-shadow: 1.5px 1.5px 1.5px 1px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  font-size: 13.5px;
+}
+
+.submit:hover {
+  font-size: 15px;
+}

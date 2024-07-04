@@ -1,0 +1,48 @@
+.card {
+  background-color: rgb(237, 158, 105);
+  height: 150px;
+  text-align: center;
+  margin: 2% auto;
+  padding: 5px;
+  padding-bottom: 15px;
+  width: 90%;
+  height: auto;
+  border-radius: 20px;
+  position: relative;
+}
+
+hr {
+  width: 80%;
+  border: solid rgb(218, 135, 67) 0.5px;
+}
+
+.btns {
+  position: absolute;
+  top: 15px;
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  right: 16px;
+}
+
+.btns button {
+  border: none;
+  font-size: 15px;
+  background: none;
+  cursor: pointer;
+}
+
+.btns i {
+  cursor: pointer;
+  left: 35px;
+}
+
+.completed {
+  background-color: rgb(103, 76, 54);
+  color: rgb(25, 25, 25);
+}
+
+.completed hr {
+  width: 80%;
+  border: solid rgb(80, 61, 44) 0.5px;
+}
