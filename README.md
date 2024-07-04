@@ -12,6 +12,8 @@ Experience seamless appointment management with this intuitive MERN stack applic
 ## Screengrabs
 
 <img width="1440" alt="app-page" src="https://github.com/ashferoz/PlanAhead/assets/129742984/b530d298-519e-4be6-a23a-efe6b772f056">
+![ScreenRecording1](https://github.com/ashferoz/PlanAhead/assets/129742984/bd82be99-92dc-487a-a700-9992a1422810)
+![ScreenRecording2](https://github.com/ashferoz/PlanAhead/assets/129742984/c284221d-45ae-4f76-a0c1-2c1b9760e50f)
 
 
 ## Future updates
