@@ -20,6 +20,7 @@ Experience seamless appointment management with this intuitive MERN stack applic
 - Implement JWT authentication to allow multiple users to securely register and manage their own accounts within the app.
 - Incorporate thorough validations to ensure users submit information correctly and securely.
 - Integrate a weather widget for users to view real-time weather updates directly within the app.
+- Users are able to upload and use their own image in the user box to personalized the app.
 
 ## Technology stack
 
